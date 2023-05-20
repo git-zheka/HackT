@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/hack2dbserver/databases/Hack_db3",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:ConnectionStringDB",
+      "dynamicId": null
+    }
+  }
+}

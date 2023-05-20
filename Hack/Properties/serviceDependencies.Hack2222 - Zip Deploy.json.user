@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2023-05-19T23:57:59.0214964Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "291cc0a7-dbab-40c5-a759-61805455d7c4"
+    },
+    "Hack2222.resourceGroupName": {
+      "Name": "Hack2222.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "Hack20230519202417ResourceGroup"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "Hack20230519202417ResourceGroup"
+    },
+    "subscriptionId": {
+      "Name": "subscriptionId",
+      "Type": "subscription",
+      "Value": "291cc0a7-dbab-40c5-a759-61805455d7c4"
+    },
+    "Hack2222.resourceName": {
+      "Name": "Hack2222.resourceName",
+      "Type": null,
+      "Value": "Hack2222"
+    },
+    "Hack2222.subscriptionId": {
+      "Name": "Hack2222.subscriptionId",
+      "Type": "subscription",
+      "Value": "291cc0a7-dbab-40c5-a759-61805455d7c4"
+    },
+    "Hack2222.resourceGroupLocation": {
+      "Name": "Hack2222.resourceGroupLocation",
+      "Type": null,
+      "Value": "eastus"
+    }
+  }
+}
